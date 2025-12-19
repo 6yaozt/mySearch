@@ -1,1 +1,1 @@
-shutil.rmtree(pathlib.Path.cwd()/"mySearch", ignore_errors=True)
+shutil.rmtree(pathlib.Path.cwd()/"mySearch-master", ignore_errors=True)
